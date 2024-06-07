@@ -1,0 +1,16 @@
+com\boots\controller\RegistrationController.class
+com\boots\repository\RoleRepository.class
+com\boots\entity\MathFunctions.class
+com\boots\config\WebSecurityConfig.class
+com\boots\entity\Post.class
+com\boots\service\PostService.class
+com\boots\repository\UserRepository.class
+com\boots\entity\Role.class
+com\boots\entity\User.class
+com\boots\controller\PostController.class
+com\boots\config\MvcConfig.class
+com\boots\Application.class
+com\boots\service\MathService.class
+com\boots\service\UserService.class
+com\boots\controller\AdminController.class
+com\boots\repository\PostRepository.class

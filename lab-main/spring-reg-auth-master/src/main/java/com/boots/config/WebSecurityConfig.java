@@ -1,6 +1,8 @@
 package com.boots.config;
 
+import com.boots.entity.MathFunctions;
 import com.boots.service.UserService;
+import com.github.jknack.handlebars.Handlebars;
 import org.springframework.beans.factory.annotation.Autowired;
 import org.springframework.context.annotation.Bean;
 import org.springframework.context.annotation.Configuration;
@@ -21,6 +23,17 @@ public class WebSecurityConfig extends WebSecurityConfigurerAdapter {
     public BCryptPasswordEncoder bCryptPasswordEncoder() {
         return new BCryptPasswordEncoder();
     }
+
+    @Bean
+    public Handlebars handlebars() {
+        return new Handlebars();
+    }
+
+    @Bean
+    public MathFunctions mathFunctions() {
+        return new MathFunctions();
+    }
+
 
     @Override
     protected void configure(HttpSecurity httpSecurity) throws Exception {

@@ -1,0 +1,16 @@
+N:\ForUniver\lab\lab-main\spring-reg-auth-master\src\main\java\com\boots\service\PostService.java
+N:\ForUniver\lab\lab-main\spring-reg-auth-master\src\main\java\com\boots\controller\AdminController.java
+N:\ForUniver\lab\lab-main\spring-reg-auth-master\src\main\java\com\boots\controller\PostController.java
+N:\ForUniver\lab\lab-main\spring-reg-auth-master\src\main\java\com\boots\entity\User.java
+N:\ForUniver\lab\lab-main\spring-reg-auth-master\src\main\java\com\boots\entity\Role.java
+N:\ForUniver\lab\lab-main\spring-reg-auth-master\src\main\java\com\boots\service\UserService.java
+N:\ForUniver\lab\lab-main\spring-reg-auth-master\src\main\java\com\boots\repository\RoleRepository.java
+N:\ForUniver\lab\lab-main\spring-reg-auth-master\src\main\java\com\boots\service\MathService.java
+N:\ForUniver\lab\lab-main\spring-reg-auth-master\src\main\java\com\boots\repository\UserRepository.java
+N:\ForUniver\lab\lab-main\spring-reg-auth-master\src\main\java\com\boots\controller\RegistrationController.java
+N:\ForUniver\lab\lab-main\spring-reg-auth-master\src\main\java\com\boots\entity\MathFunctions.java
+N:\ForUniver\lab\lab-main\spring-reg-auth-master\src\main\java\com\boots\config\WebSecurityConfig.java
+N:\ForUniver\lab\lab-main\spring-reg-auth-master\src\main\java\com\boots\Application.java
+N:\ForUniver\lab\lab-main\spring-reg-auth-master\src\main\java\com\boots\config\MvcConfig.java
+N:\ForUniver\lab\lab-main\spring-reg-auth-master\src\main\java\com\boots\entity\Post.java
+N:\ForUniver\lab\lab-main\spring-reg-auth-master\src\main\java\com\boots\repository\PostRepository.java
